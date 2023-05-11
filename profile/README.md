@@ -1,3 +1,3 @@
 ## [WIP]
 
-Free and open source software for renewable energy systems
+Free and open source functional software for photovoltaic battery systems
